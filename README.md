@@ -1,7 +1,7 @@
 # TrabalhoJava_PC2_Livraria
 Trabalho realizado para aprimorar os conhecimentos em interface e tratamento de eventos em Java, na disciplina de Programação de Computadores II e tem cmo objetivo, simular um simples sistema de cadastro de uma livraria.
  
- **Projeto feito por** : Pablo Felipe **|** Julio Cesar **|** Israel Terra **|** Lucas Alexsanderson :+1:
+ **Projeto feito por** : Pablo Felipe | Julio Cesar **|** Israel Terra **|** Lucas Alexsanderson :+1:
   
  
 <p align="center">
